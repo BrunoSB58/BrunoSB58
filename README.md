@@ -142,7 +142,7 @@ Me chamo Bruno Barral, tenho 34 anos e sou natural de São Paulo. Concluí o cur
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoSB58&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BrunoSB58&show_icons=true" 
   />
 
 <img 
@@ -150,7 +150,7 @@ Me chamo Bruno Barral, tenho 34 anos e sou natural de São Paulo. Concluí o cur
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSB58&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSB58&theme=radical=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
