@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bruno Barral
+#👨🏽‍💻 Bruno Barral
 
 **`Engenharia de Computação`**
 
